@@ -7,8 +7,7 @@ Repositório criado para anotações de estudos de linguagem Java
 
 ## Atalhos:keyboard:
 
-- Perspectiva das janelas = ctrl+3
-
-- Criar um novo projeto = ctrl+n
+- Perspectiva das janelas = ctrl + 3
+- Criar um novo projeto = ctrl + n
 - Buscar codigo = digite "main" e depois aperte crtl+space então escolha uma das opções
-- 
+- Para apagar uma linha inteira = crtl + d
