@@ -3,6 +3,8 @@ Repositório criado para anotações de estudos de linguagem Java
 
 # Anotações sobre Java:coffee:
 
+ -Para comentar em java utiliza-se /*
+
 ## Atalhos:keyboard:
 
 - Perspectiva das janelas = ctrl+3
