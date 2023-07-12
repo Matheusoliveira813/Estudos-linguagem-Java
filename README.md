@@ -17,3 +17,4 @@ Repositório criado para anotações de estudos em linguagem Java
 - Para refatorar = ctrl + shift + f
 - Importação de objetos = ctrl + shift + o
 - Maximizar a tela de codigo = ctrl + m
+- Buscar Classes = Crtl + Shift + T
