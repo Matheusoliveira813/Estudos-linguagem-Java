@@ -4,7 +4,7 @@ Repositório criado para anotações de estudos em linguagem Java
 
 # Anotações sobre Java:coffee:
 
-- Para comentar em java utiliza-se /*
+- Para comentar em java utiliza-se /*[Seu comentario]*/
 - Use o constructor para acelerar o processo de digitação = aperte ctrl + 3 e digite construtor
 - Para mudar o bloco de texto de lugar bastar selecionar o texto e segurar a tecla alt então aperte as setas na direção desejada
 
