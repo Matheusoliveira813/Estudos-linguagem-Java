@@ -14,3 +14,6 @@ Repositório criado para anotações de estudos em linguagem Java
 - Criar um novo projeto = ctrl + n
 - Buscar codigo = digite "main" e depois aperte crtl+space então escolha uma das opções
 - Para apagar uma linha inteira = ctrl + d
+- Para refatorar = ctrl + shift + f
+- Importação de objetos = ctrl + shift + o
+- Maximizar a tela de codigo = ctrl + m
